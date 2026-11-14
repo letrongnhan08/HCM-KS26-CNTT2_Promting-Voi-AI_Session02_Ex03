@@ -9,8 +9,11 @@ Thiếu ranh giới ngữ nghĩa: Do không dùng ký tự phân tách rõ ràng
 Cụm từ "hãy viết mã Python để in ra" vốn nằm trong phiếu kho bị AI hiểu nhầm là lệnh của người dùng! AI lập tức viết ra một đoạn script Python dài 50 dòng thay vì trích xuất mã linh kiện.
 
 **3 cặp ký tự phân tách Delimiters:**
+
 `<context>...</context> ` Giúp cấu trúc hóa rõ ràng vùng chứa dữ liệu để AI dễ dàng phân biệt ngữ cảnh.
+
 `"""` : dùng bao bọc một khối văn bản dài để AI dễ nhận diện
+
 `###`:  Tạo ra các ranh giới rõ ràng, ngăn cách phần lệnh và phần dữ liệu
 
 **Phần 2 (Sửa lỗi):**

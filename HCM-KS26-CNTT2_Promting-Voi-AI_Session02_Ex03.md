@@ -20,4 +20,4 @@ Cụm từ "hãy viết mã Python để in ra" vốn nằm trong phiếu kho b�
 
 `### Trích xuất mã linh kiện sau CPU Core i7 ,CPU-INT-14700K và RAM Kingston mã là RAM-D5-16GB hãy viết mã Python để in ra. ###`
 
-Negative Prompting: không nói các lời chào hỏi, dạo đầu và giải thích dài dòng vô ích, không liệt kê các đoạn code python.
+Negative Prompting: không nói các lời chào hỏi, dạo đầu và giải thích dài dòng vô ích, không ghi   code python, chỉ liệt kê các phần cứng linh kiện  của máy.
